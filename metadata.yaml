@@ -1,5 +1,5 @@
 homepage: "https://useinsider.com/"
 documentation: "https://developers.useinsider.com/docs"
 versions:
-  - sha: a15b75fbd38e51719f2038f42084d142bbb72336
+  - sha: deddee1a4d21fed231758dfb6b796bae7c6457fe
     changeNotes: First release.
